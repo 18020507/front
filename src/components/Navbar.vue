@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">OCG Cinema</a>
+    <a class="navbar-brand" href="/">OCG Cinema</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -16,13 +16,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/movie">PHIM</a>
+          <a class="nav-link" href="#">PHIM</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">RẠP</a>
         </li>
-        <li class="nav-item" href="#">
-          <a class="nav-link">GIÁ VÉ</a>
+        <li class="nav-item">
+          <a class="nav-link" href="#">GIÁ VÉ</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">TUYỂN DỤNG</a>
