@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-white">
-    <div class="container py-5">
+    <div class="container">
       <div class="row py-4">
         <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
           <h6 class="text-uppercase font-weight-bold mb-4">OCG Cinemas</h6>

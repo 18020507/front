@@ -84,7 +84,6 @@ export default {
 <style scoped>
 .carouselWidth {
   width: 1535px;
-  height: 480px;
 }
 
 .movieSelection {

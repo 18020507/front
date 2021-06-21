@@ -16,13 +16,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/movie">PHIM</a>
+          <a class="nav-link" href="/addshow">THÊM XUẤT CHIẾU</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">RẠP</a>
+          <a class="nav-link" href="#">THÊM PHIM</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">GIÁ VÉ</a>
+          <a class="nav-link" href="#">LỊCH SỬ GIAO DỊCH</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">TUYỂN DỤNG</a>
