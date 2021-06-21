@@ -1,7 +1,7 @@
 on:
   push:
     branches: 
-      - master
+      - main
 #       - dev
 jobs:
   deploy:
@@ -19,8 +19,8 @@ jobs:
       run: npm run build
       env:
         CI: false
-    - name: "On branch master: Deploy to Server"
-      if: github.ref == 'refs/heads/master'
+    - name: "On branch main: Deploy to Server"
+      if: github.ref == 'refs/heads/main'
       uses: easingthemes/ssh-deploy@v2.1.5
       env:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
